@@ -3,16 +3,15 @@ namespace Appium\Traits;
 
 class BaseConstants
 {
-                                    
     /** @var string */
     static public $POST = 'POST';
-                                    
+
     /** @var string */
     static public $GET = 'GET';
-                                    
+
     /** @var string */
     static public $DELETE = 'DELETE';
-                                    
+
     /** @var string */
     public static $GETSTATUS = '/status';
 
